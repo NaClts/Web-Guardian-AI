@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+uvicorn = {extras = ["standard"], version = "*"}
+fastapi = {extras = ["standard"], version = "*"}
+requests = "*"
+scikit-learn = "*"
+llama-cpp-python = "*"
+fasttext = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
