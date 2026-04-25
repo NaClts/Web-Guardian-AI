@@ -47,6 +47,7 @@ cd Web-Guardian-AI
 A required SLM file must be downloaded and placed in a specific directory before building the containers.
 
 Use the provided link:
+
 **https://huggingface.co/bartowski/Phi-3.5-mini-instruct-GGUF/resolve/main/Phi-3.5-mini-instruct-Q4_K_M.gguf**
 
 ... to download the file and save it to the following path:
